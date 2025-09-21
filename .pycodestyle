@@ -4,3 +4,4 @@ ignore = --ignore=E501,W191,W293,E302,E305,W291,W292,E126,E265,E226,E262,E261,W3
 max_line_length = 150
 statistics = True
 exclude=
+
